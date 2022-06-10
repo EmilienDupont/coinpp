@@ -8,7 +8,7 @@
 --num_epochs=1000
 --train_dataset=librispeech
 --test_dataset=librispeech
---gradient_checkpointing=0
+--gradient_checkpointing=1
 --num_validation_points=-1
 --validate_every=2000
 --use_wandb=1

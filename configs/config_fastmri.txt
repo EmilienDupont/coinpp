@@ -8,7 +8,7 @@
 --num_epochs=32000
 --train_dataset=fastmri
 --test_dataset=fastmri
---gradient_checkpointing=0
+--gradient_checkpointing=1
 --num_validation_points=-1
 --validate_every=2000
 --use_wandb=1
