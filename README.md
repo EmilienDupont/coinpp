@@ -58,7 +58,7 @@ _The trained models, runs and modulations are not yet public as we need to share
 
 All models and modulations are stored on wandb. To find the link for a given model or run, see the `wandb_ids.json` files in the appropriate folder in the `results` directory. The model and run information can the be found at `wandb.ai/<wandb_id>`.
 
-## Results and [lots
+## Results and plots
 
 To recreate all the plots in the paper run:
 
