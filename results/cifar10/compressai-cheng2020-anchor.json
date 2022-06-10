@@ -1,0 +1,26 @@
+{
+  "name": "CST",
+  "description": "Results based on experiments with CompressAI model implementation.",
+  "results": {
+    "psnr": [
+      22.63254,
+      24.53074,
+      31.822,
+      34.86182,
+      37.58709,
+      39.01963,
+      41.59367,
+      43.57520,
+    ],
+    "bpp": [
+      0.39147,
+      0.55443,
+      1.32,
+      1.73158,
+      2.25754,
+      2.63637,
+      3.34170,
+      4.00814,
+    ],
+  }
+}

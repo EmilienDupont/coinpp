@@ -1,0 +1,20 @@
+{
+    "name": "COIN++",
+    "description": "COIN++ with 3 inner steps. Points quantized to 5 bits (latent 128: patch 1600), 6 bits (latent 128: patch 800, 400), 7 bits (latent 128: patch 200, latent 256: patch 200). Note that bpp corresponds to kbps.",
+    "results": {
+        "psnr": [
+            36.006412506103516,
+            39.34568405151367,
+            42.897789001464844,
+            48.1185302734375,
+            54.68132019042969
+        ],
+        "bpp": [
+            5.630615459336983,
+            13.806955716315246,
+            27.481792527914564,
+            65.23163053891498,
+            131.37950656945011
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Encoding time",
+  "description": "Average encoding time in seconds on CIFAR10 test set. Deep learning based models tested on a 1080Ti GPU, other algorithms tested on AMD Ryzen 5 3600 (12) @ 3.600GHz with 32GB of RAM.",
+  "results": {
+    "per_example": {
+      "BPG": 0.0051872,
+      "BPG -q 39 bpp 1.0": 0.0049852,
+      "BPG -q 37 bpp 1.25": 0.0051872,
+      "BPG -q 33 bpp 1.875": 0.0056427,
+      "BPG -q 29 bpp 2.5": 0.006126,
+      "BPG -q 24 bpp 3.75": 0.006835,
+      "BPG -q 20 bpp 5.0": 0.007549,
+      "COIN++ 3 steps latent dim 384": 0.03268885588645935,
+      "COIN++ 10 steps latent dim 384": 0.09497303438186645,
+      "COIN++ 3 steps latent dim 512": 0.04330165011882782,
+      "COIN++ 10 steps latent dim 512": 0.136009117937088,
+      "COIN": 29.7647,
+    },
+    "per_dataset": {
+      "COIN++ 3 steps latent dim 384": 81.3753776550293,
+      "COIN++ 10 steps latent dim 384": 251.74828839302063,
+      "COIN++ 3 steps latent dim 512": 129.78811645507812,
+      "COIN++ 10 steps latent dim 512": 400.5846002101898,
+    }
+  }
+}

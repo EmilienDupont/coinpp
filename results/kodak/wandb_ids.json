@@ -1,0 +1,11 @@
+{
+  "description": "Ids for COIN++ wandb runs.",
+  "runs": {
+    "16": "nfrc/milad/runs/colpn82s",
+    "32": "nfrc/milad/runs/yfvnt89m",
+    "64": "nfrc/milad/runs/231w6nbr",
+    "96": "nfrc/milad/runs/2wiay7fr",
+    "128": "nfrc/milad/runs/2jt6ji8c",
+    "256": "nfrc/milad/runs/1de60zbt",
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "description": "Ids for COIN++ wandb runs.",
+  "runs": {
+    "4": "nfrc/emi/runs/1b476ze6",
+    "8": "nfrc/emi/runs/10bxlrgt",
+    "12": "nfrc/emi/runs/3gxapcfj",
+    "16": "nfrc/emi/runs/266hqn94",
+  }
+}

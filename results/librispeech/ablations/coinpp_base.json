@@ -1,0 +1,22 @@
+{
+    "name": "Base",
+    "description": "COIN++ without quantization and entropy coding. Note that bpp corresponds to kbps.",
+    "results": {
+        "3 steps": {
+            "psnr": [
+                36.59347152709961,
+                39.8331184387207,
+                43.82167434692383,
+                49.795894622802734,
+                80.61748504638672
+            ],
+            "bpp": [
+                40.96,
+                81.92,
+                163.84,
+                327.68,
+                655.36
+            ]
+        }
+    }
+}

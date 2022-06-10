@@ -1,0 +1,10 @@
+{
+    "description": "Ids for COIN++ wandb runs.",
+    "runs": {
+        "128 - patch 1600": "nfrc/hrushi/runs/1c47wixo",
+        "128 - patch 800": "nfrc/hrushi/runs/1zncv9al",
+        "128 - patch 400": "nfrc/hrushi/runs/241cveyq",
+        "128 - patch 200": "nfrc/hrushi/runs/1nnu2xxx",
+        "256 - patch 200": "nfrc/hrushi/runs/11aiepf5"
+    }
+}

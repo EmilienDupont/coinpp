@@ -1,0 +1,22 @@
+{
+  "name": "COIN++",
+  "description": "COIN++ with 10 inner steps. First points are latent dim 16, quantized to 5 and 6 bits, then latent dim 32, quantized to 5 bits, then latent dim 64 quantized to 6 bits, then latent dim 128 quantized to 5 bits and 6 bits.",
+  "results": {
+    "psnr": [
+      28.631011962890625,
+      29.039216995239258,
+      30.230789184570312,
+      32.279380798339844,
+      33.520835876464844,
+      34.04087829589844,
+    ],
+    "bpp": [
+      0.016638531807285608,
+      0.020159988787906525,
+      0.03362420313763169,
+      0.08389047119544794,
+      0.13677766799537466,
+      0.16813377663601292,
+    ],
+  }
+}

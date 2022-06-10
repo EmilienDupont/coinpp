@@ -1,0 +1,6 @@
+mnist: ../datasets/MNIST
+cifar10: ../datasets/CIFAR10
+kodak: ../datasets/kodak
+fastmri: ../datasets/fastmri
+era5: ../datasets/era5
+librispeech: ../datasets/librispeech
