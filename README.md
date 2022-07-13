@@ -10,7 +10,7 @@ The requirements can be found in `requirements.txt`. While it is possible to run
 
 ## Data
 
-Before running experiments, make sure to set data paths in `data/dataset_paths.yml`. Most datasets can be downloaded automatically, except for [FastMRI](https://fastmri.org/) which needs an application form and ERA5 which can be downloaded [here](https://github.com/EmilienDupont/neural-function-distributions#downloading-datasets).
+Before running experiments, make sure to set data paths in `data/dataset_paths.yml`. Most datasets can be downloaded automatically, except for [FastMRI](https://fastmri.org/) which needs an application form and ERA5 which can be downloaded [here](https://github.com/EmilienDupont/neural-function-distributions#downloading-datasets). For the FastMRI dataset, we use the `brain_multicoil_val.zip` file and split into train and test sets using the ids in `data/fastmri_split_ids.py`.
 
 ## Training
 
